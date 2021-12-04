@@ -11,4 +11,3 @@ function createXmasTree(height) {
   }
   return arbol.trim();
 }
-console.log(createXmasTree(5))
