@@ -1,4 +1,5 @@
-¡Es hora de poner el árbol de navidad en casa! 🎄
+# <span style="font-weight:bold;color:rgb(52, 211, 153);">#04</span> ¡Es hora de poner el árbol de navidad en casa! 🎄
+
 
 Para ello vamos a crear una función que recibe la altura del árbol, que será un entero positivo del 1 a, como máximo, 100.
 
